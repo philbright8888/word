@@ -53,3 +53,16 @@
 - 不提交真实银行对账单、账号、交易金额、测试 DOCX 或包含交易数据的扫描报告。
 - 原文件不得覆盖或删除；输出新文件，已存在同名输出时应停止。
 - 只把源码真实存在的工具列为可用，不根据讨论内容伪造代码。
+
+### Word 清理历史版本（分别保存）
+| 版本 | 源码 | 使用说明 |
+|---|---|---|
+| V4.15 | [Python](scripts/versions/clean_word_v4_15.py) | [说明](docs/tools/clean-word-v4-15.md) |
+| V4.14 | [Python](scripts/versions/clean_word_v4_14.py) | [说明](docs/tools/clean-word-v4-14.md) |
+| V4.13 | [Python](scripts/versions/clean_word_v4_13.py) | [说明](docs/tools/clean-word-v4-13.md) |
+| V4.12 | [Python](scripts/versions/clean_word_v4_12.py) | [说明](docs/tools/clean-word-v4-12.md) |
+| V4.11 | [Python](scripts/versions/clean_word_v4_11.py) | [说明](docs/tools/clean-word-v4-11.md) |
+| V4.10 | [Python](scripts/versions/clean_word_v4_10.py) | [说明](docs/tools/clean-word-v4-10.md) |
+| V4.9 | [Python](scripts/versions/clean_word_v4_9.py) | [说明](docs/tools/clean-word-v4-9.md) |
+
+这些是历史独立版本，用于复现和比较；不要把版本文件当成相同规则，也不要不经检查就对同一份文档连续运行多个版本。
