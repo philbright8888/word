@@ -66,3 +66,14 @@
 | V4.9 | [Python](scripts/versions/clean_word_v4_9.py) | [说明](docs/tools/clean-word-v4-9.md) |
 
 这些是历史独立版本，用于复现和比较；不要把版本文件当成相同规则，也不要不经检查就对同一份文档连续运行多个版本。
+
+### 更早的表格格式历史版本
+| 版本/用途 | 源码 | 使用说明 |
+|---|---|---|
+| V4.6 页面居中 | [Python](scripts/versions/word_table_format_mac_v4_6_page_center.py) | [说明](docs/tools/v4-6-page-center.md) |
+| V4.5 全表头 | [Python](scripts/versions/word_table_format_mac_v4_5_all_headers.py) | [说明](docs/tools/v4-5-all-headers.md) |
+| V4 Notes 7.55 cm | [Python](scripts/versions/word_table_format_mac_v4_notes_7_55.py) | [说明](docs/tools/v4-notes-755.md) |
+| V4 横向页面适配 | [Python](scripts/versions/word_table_format_mac_v4_fit_landscape.py) | [说明](docs/tools/v4-fit-landscape.md) |
+| V4 固定列宽 | [Python](scripts/versions/word_table_format_mac_v4_fixed_width.py) | [说明](docs/tools/v4-fixed-width.md) |
+| V4 基础版本 | [Python](scripts/versions/word_table_format_mac_v4.py) | [说明](docs/tools/v4-baseline.md) |
+
